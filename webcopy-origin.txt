@@ -1,0 +1,96 @@
+Uri: https://ark2023.site/contest.php
+File Name: C:\Downloaded Web Sites\ark2023.site\contest.php.html
+Content Type: text/html
+
+Uri: https://ark2023.site/css/style.css
+File Name: C:\Downloaded Web Sites\ark2023.site\css\style.css
+Content Type: text/css
+
+Uri: https://ark2023.site/images/background.png
+File Name: C:\Downloaded Web Sites\ark2023.site\images\background.png
+Content Type: image/png
+
+Uri: https://ark2023.site/images/background2.png
+File Name: C:\Downloaded Web Sites\ark2023.site\images\background2.png
+Content Type: image/png
+
+Uri: https://ark2023.site/images/bage.png
+File Name: C:\Downloaded Web Sites\ark2023.site\images\bage.png
+Content Type: image/png
+
+Uri: https://ark2023.site/images/bonus.png
+File Name: C:\Downloaded Web Sites\ark2023.site\images\bonus.png
+Content Type: image/png
+
+Uri: https://ark2023.site/images/check.svg
+File Name: C:\Downloaded Web Sites\ark2023.site\images\check.svg
+Content Type: image/svg+xml
+
+Uri: https://ark2023.site/images/checkmark.png
+File Name: C:\Downloaded Web Sites\ark2023.site\images\checkmark.png
+Content Type: image/png
+
+Uri: https://ark2023.site/images/creator.png
+File Name: C:\Downloaded Web Sites\ark2023.site\images\creator.png
+Content Type: image/png
+
+Uri: https://ark2023.site/images/logo_black.png
+File Name: C:\Downloaded Web Sites\ark2023.site\images\logo_black.png
+Content Type: image/png
+
+Uri: https://ark2023.site/images/popper.png
+File Name: C:\Downloaded Web Sites\ark2023.site\images\popper.png
+Content Type: image/png
+
+Uri: https://ark2023.site/images/qr.png
+File Name: C:\Downloaded Web Sites\ark2023.site\images\qr.png
+Content Type: image/png
+
+Uri: https://ark2023.site/images/transfer.png
+File Name: C:\Downloaded Web Sites\ark2023.site\images\transfer.png
+Content Type: image/png
+
+Uri: https://ark2023.site/images/wallet.png
+File Name: C:\Downloaded Web Sites\ark2023.site\images\wallet.png
+Content Type: image/png
+
+Uri: https://ark2023.site/js/script.js
+File Name: C:\Downloaded Web Sites\ark2023.site\js\script.js
+Content Type: application/javascript
+
+Uri: https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=0x814891efa5870331c5ca948b2e0e29f90baeaa11&choe=UTF-8
+File Name: C:\Downloaded Web Sites\ark2023.site\chart-1
+Content Type: image/png
+
+Uri: https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=31rptVhPaaVVZEuFzkdTCP92KHvDY57kmx&choe=UTF-8
+File Name: C:\Downloaded Web Sites\ark2023.site\chart
+Content Type: image/png
+
+Uri: https://code.jquery.com/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\ark2023.site\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Mulish:wght@400;500;600;700;800&display=swap
+File Name: C:\Downloaded Web Sites\ark2023.site\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/mulish/v12/1Ptyg83HX_SGhgqO0yLcmjzUAuWexaFRwaA.ttf
+File Name: C:\Downloaded Web Sites\ark2023.site\s\mulish\v12\1Ptyg83HX_SGhgqO0yLcmjzUAuWexaFRwaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v12/1Ptyg83HX_SGhgqO0yLcmjzUAuWexRNWwaA.ttf
+File Name: C:\Downloaded Web Sites\ark2023.site\s\mulish\v12\1Ptyg83HX_SGhgqO0yLcmjzUAuWexRNWwaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v12/1Ptyg83HX_SGhgqO0yLcmjzUAuWexU1WwaA.ttf
+File Name: C:\Downloaded Web Sites\ark2023.site\s\mulish\v12\1Ptyg83HX_SGhgqO0yLcmjzUAuWexU1WwaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v12/1Ptyg83HX_SGhgqO0yLcmjzUAuWexXRWwaA.ttf
+File Name: C:\Downloaded Web Sites\ark2023.site\s\mulish\v12\1Ptyg83HX_SGhgqO0yLcmjzUAuWexXRWwaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v12/1Ptyg83HX_SGhgqO0yLcmjzUAuWexZNRwaA.ttf
+File Name: C:\Downloaded Web Sites\ark2023.site\s\mulish\v12\1Ptyg83HX_SGhgqO0yLcmjzUAuWexZNRwaA.ttf
+Content Type: font/ttf
+
